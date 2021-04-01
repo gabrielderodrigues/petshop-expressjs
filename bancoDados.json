@@ -1,0 +1,113 @@
+{
+  "pets": [
+    {
+      "nome": "Azure",
+      "tipo": "Cachorro",
+      "idade": 10,
+      "raca": "Vira-lata",
+      "peso": 4,
+      "tutor": "Gabriel",
+      "contato": "(11) 98899-4545",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Luiz",
+      "tipo": "Cachorro",
+      "idade": 13,
+      "raca": "Beagle",
+      "peso": 5,
+      "tutor": "Gabriel",
+      "contato": "(11) 95656-4545",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Herbertirichard",
+      "tipo": "Gato",
+      "idade": 5,
+      "raca": "Vira-lata",
+      "peso": 3,
+      "tutor": "Bruxa do 71",
+      "contato": "(11) 97171-7171",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Melgibsa",
+      "tipo": "Cachorro",
+      "idade": 11,
+      "raca": "Vira-lata",
+      "peso": 15,
+      "tutor": "Pedro",
+      "contato": "(11) 98899-4545",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Marina",
+      "tipo": "Cachorro",
+      "idade": 10,
+      "raca": "Pastor Alemão",
+      "peso": 18,
+      "tutor": "João",
+      "contato": "(11) 98899-9999",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Guilherme",
+      "tipo": "Cachorro",
+      "idade": 2,
+      "raca": "American",
+      "peso": 14,
+      "tutor": "Bruno",
+      "contato": "(11) 99999-9999",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Deroque",
+      "tipo": "Gato",
+      "idade": 3,
+      "raca": "American",
+      "peso": 8,
+      "tutor": "Doug",
+      "contato": "(11) 99999-9999",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Bruce",
+      "tipo": "Gato",
+      "idade": 5,
+      "raca": "American",
+      "peso": 8,
+      "tutor": "Hendy",
+      "contato": "(11) 99999-9999",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Vemdisel",
+      "tipo": "gato",
+      "idade": 3,
+      "raca": "American",
+      "peso": 18,
+      "tutor": "Doug",
+      "contato": "(11) 99999-9999",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Leo",
+      "tipo": "cachorro",
+      "idade": "4",
+      "raca": "viralata",
+      "peso": "4",
+      "tutor": "Gabriel",
+      "contato": "8199292949",
+      "vacinado": "true"
+    }
+  ]
+}
